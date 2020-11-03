@@ -6,4 +6,4 @@ Finished course:
 ASP.NET Core Fundamentals
 by Scott Allen
 
-on www.PluralSight.com
+www.PluralSight.com
